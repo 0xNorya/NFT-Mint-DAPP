@@ -1,4 +1,8 @@
 ### **Welcome 👋**
+
+Live website https://nft-mint-dapp.0xnorya.repl.co/
+Mint an NFT please 
+
 This is a Web3 Dapp which aloows a user to connect their metamask wallet and
 mint an NFT using Rinkeby Testnet 
 
